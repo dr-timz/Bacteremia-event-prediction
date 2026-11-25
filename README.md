@@ -41,10 +41,3 @@ Le modèle final a été sélectionné sur le **F1-score en validation croisée*
 * **Sensibilité (Rappel) :** 37,6 % (VP = 71, FN = 118)
 * **Spécificité :** 93,7 % (VN = 2 026, FP = 136)
 * **VPP (Précision) :** 34,3 % | **VPN :** 94,5 %
-
-## Installation & Utilisation
-
-```bash
-git clone [https://github.com/dr-timz/bacteremia-event-prediction.git](https://github.com/dr-timz/bacteremia-event-prediction.git)
-cd bacteremia-event-prediction
-pip install -r requirements.txt
